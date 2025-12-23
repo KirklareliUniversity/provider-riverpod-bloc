@@ -64,4 +64,7 @@ Bu proje ile Flutter’da kullanılan Provider, Riverpod ve BLoC yaklaşımları
 -teknik prensipleri,
 -uygulamalı örnekleri,
 -güvenli ve stabil bir web altyapısı,
+
 kapsamında karşılaştırmalı olarak sunulmuştur.
+
+-**Kübra Celep**
